@@ -7,3 +7,10 @@ import(
 func testing(){
 	fmt.Println("Akhirnya")
 }
+
+
+
+
+
+
+
